@@ -1,0 +1,11 @@
+vlan 14
+name vlanContabilidad
+exit
+
+vlan 15
+name vlanMarketing
+exit
+
+vlan 16
+name vlanRRHH
+exit
