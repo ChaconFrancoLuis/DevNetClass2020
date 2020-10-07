@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<People>
+    <Person Id="1" type="teacher">
+        <FirstName>Fernando</FirstName>
+        <LastName>Chacon</LastName>
+        <Email>francofer7775@gmail.com</Email>
+    </Person>
+
+    <Person Id="2" type="director">
+        <FirstName>Vinitri</FirstName>
+        <LastName>Leal</LastName>
+        <Email>Vinitrileal@yahoo.com</Email>
+    </Person>
+
+    <Person Id="3" type="student">
+        <FirstName>Paty</FirstName>
+        <LastName>Acevedo</LastName>
+        <Email>paty.Acevedo@yahoo.com</Email>
+    </Person>
+
+    <Person Id="4" type="student">
+        <FirstName>Guillermo</FirstName>
+        <LastName>Acevedo</LastName>
+        <Email>guillermo.Acevedo@yahoo.com</Email>
+    </Person>
+
+    <Person Id="5" type="student">
+        <FirstName>Joaquin</FirstName>
+        <LastName>Lopez</LastName>
+        <Email>joaquin.lopez@yahoo.com</Email>
+    </Person>
